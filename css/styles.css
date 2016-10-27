@@ -1,0 +1,25 @@
+﻿body {
+	padding: 10px;
+}
+
+p {
+	background-color: #acda4a;
+	margin: 0;
+	padding: 0;
+}
+
+span {
+	background-color: #76ac00;
+	margin: 0;
+	padding: 0;
+}
+
+.comment {
+	color: #1c2901;
+	background-color: #fff;
+	margin-bottom: 3px;
+}
+
+.none-line-height {
+	line-height: 100%;
+}
